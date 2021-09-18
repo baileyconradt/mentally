@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "mentally-ee47e"
+    "default": "mentally-ee47e",
+    "mentally-ee47e": "mentally-ee47e"
   }
 }
